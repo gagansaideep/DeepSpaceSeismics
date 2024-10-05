@@ -209,5 +209,5 @@ test_model_on_data(test_data_path, model, output_file)
 ## Acknowledgements
 
 - This project was developed for NASA's Space Apps Challenge 2024.
-- Special thanks to [your team members or contributors].
+- Special thanks to Vishwas Sai, Supreeth, Kishore, Gagan Sai Deep.
 
